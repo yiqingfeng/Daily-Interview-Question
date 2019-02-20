@@ -18,5 +18,5 @@
 
 ## 历史汇总
 
-* [前端面试题及答案汇总](https://github.com/Advanced-Frontend/Daily-Interview-Question/blob/master/datum/summary.md)
+* [第一期：每日一题](./phase/01.md)
 
